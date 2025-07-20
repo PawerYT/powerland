@@ -1,0 +1,24 @@
+{
+  "version": "1.1.0",
+  "minecraftVersion": "1.18.2",
+  "forgeVersion": "40.2.0",
+  "serverIP": "92.113.12.101",
+  "serverPort": "25566",
+  "files": [
+    {
+      "path": "mods/mod1.jar",
+      "url": "https://github.com/tu-usuario/mi-launcher-files/raw/main/mods/mod1.jar",
+      "checksum": "AQUÍ_VA_UN_CHECKSUM_MD5" 
+    },
+    {
+      "path": "mods/mod2.jar",
+      "url": "https://github.com/tu-usuario/mi-launcher-files/raw/main/mods/mod2.jar",
+      "checksum": "AQUÍ_VA_OTRO_CHECKSUM_MD5"
+    },
+    {
+      "path": "config/opciones.txt",
+      "url": "https://github.com/tu-usuario/mi-launcher-files/raw/main/config/opciones.txt",
+      "checksum": "Y_OTRO_MÁS"
+    }
+  ]
+}
